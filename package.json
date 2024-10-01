@@ -4,7 +4,7 @@
   "description": "VTEX IO testing tools",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vtex/test-tools"
+    "url": "https://github.com/ITGlobers/test-tools"
   },
   "keywords": [
     "react",
