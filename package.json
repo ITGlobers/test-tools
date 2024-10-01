@@ -16,9 +16,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vtex/test-tools/issues"
+    "url": "https://github.com/ITGlobers/test-tools/issues"
   },
-  "homepage": "https://github.com/vtex/test-tools#readme",
+  "homepage": "https://github.com/ITGlobers/test-tools#readme",
   "bin": {
     "vtex-test-tools": "./bin/vtex-test-tools.js"
   },
